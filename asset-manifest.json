@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/excalidraw-github-viewer/static/css/main.505354f2.css",
+    "main.js": "/excalidraw-github-viewer/static/js/main.4085d4fc.js",
+    "index.html": "/excalidraw-github-viewer/index.html",
+    "main.505354f2.css.map": "/excalidraw-github-viewer/static/css/main.505354f2.css.map",
+    "main.4085d4fc.js.map": "/excalidraw-github-viewer/static/js/main.4085d4fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.505354f2.css",
+    "static/js/main.4085d4fc.js"
+  ]
+}
